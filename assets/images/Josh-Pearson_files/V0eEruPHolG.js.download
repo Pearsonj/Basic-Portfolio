@@ -1,0 +1,3 @@
+if (self.CavalryLogger) { CavalryLogger.start_js(["WZ++r"]); }
+
+__d("AdsPePostSharingEligibilityType",[],(function(a,b,c,d,e,f){e.exports=Object.freeze({ELIGIBLE:"ELIGIBLE",UNSUPPORTED_SPROUT:"UNSUPPORTED_SPROUT"})}),null);
