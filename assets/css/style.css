@@ -1,6 +1,6 @@
 body {
     text-align: center;
-    margin: 330px;
+
 }
 
 img {
@@ -12,7 +12,6 @@ img {
 header {
     padding: 0;
     margin: 0;
-    
     background-color: #ffffff;
     border-bottom: 3px;
     border-left: 0px;
@@ -25,27 +24,34 @@ header {
 ul li { 
     text-decoration: none;
     display: inline;
+    padding-left: 20px;
+    font-size: 20px;
+    
 }
 
  ul{
     float: right;
+    padding-right: 100px;
 }
 
 .info {
  max-width: 960px;
-  margin: 30px;
-  border-bottom: 0px;
-    border-left: 0px;
-    border-top: 3px;
-    border-right: 0px;
-    border-style: solid;
+ margin-top: 15px;
+margin-left: 360px;
+margin-bottom: 25px;
+height: 250px;
+
 }
 
 h2 {
   max-width: 960px;
-  float: left;
-  margin: 0;
-  padding:0;
+  text-align: left;
+  padding-bottom: 15px;
+  border-top: 0;
+  border-right: 0;
+  border-left: 0;
+  border-bottom: 3px;
+  border-style: solid;
   
   
 }
@@ -54,9 +60,13 @@ h1 {
     float: left;
     padding: 0;
     margin: 0;
+    padding-left: 100px;
 }
 
 footer {
-    float: right;
-    height: 75px;
+    text-align: right;
+    height: 40px;
+    padding-right: 30px;
+    border: 2px;
+    border-style: solid;
 }
