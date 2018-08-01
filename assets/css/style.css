@@ -5,7 +5,7 @@ body {
     overflow: hidden;
 }
 
-img {
+.info img {
     width: 180px;
     height: auto;
     float: left;
@@ -129,3 +129,35 @@ a:visited {
 #email {
     width: 500px;
 }
+
+
+.photos {
+    margin-left:320px;
+    margin-top: 20px;
+    height: 500px;
+    width: 960px;
+    color: #777777;
+    background-color: #ffffff;
+    font-size: 21px;
+    text-align: center;
+    
+    
+}
+
+.photos img {
+    width: 150px;
+    padding: 20px;
+    position: relative;
+    display: inline;
+    flex-wrap: wrap;
+}
+
+
+
+
+
+
+
+
+
+
