@@ -130,6 +130,7 @@ a:visited {
 
 
 .photos {
+    clear: both;
     margin-left:320px;
     margin-top: 20px;
     height: 650px;
