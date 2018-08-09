@@ -48,7 +48,9 @@ p {
 }
 
 .info {
-    
+    position: relative;
+    top: 71px;
+    padding: 10px;
     margin-left:  320px;
     margin-top: 20px;
     height: 360px;
